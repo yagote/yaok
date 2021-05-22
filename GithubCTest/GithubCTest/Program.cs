@@ -10,7 +10,7 @@ namespace GithubCTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello,Can You See Me?");
+            Console.WriteLine("Hello,Can You See Me?？");
             Console.ReadKey();
         }
     }
